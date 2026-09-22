@@ -78,11 +78,7 @@ The agent:
 
 ## Workflow
 
-Coming Soon
-
-Place the workflow diagram inside:
-
-`docs/workflow.png`
+![Workflow Diagram](docs/workflow.png)
 
 ---
 
