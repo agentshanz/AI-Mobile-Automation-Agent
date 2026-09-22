@@ -1,77 +1,87 @@
 # AI Mobile Automation Agent
 
-> The next generation of built-in smartphone AI.
+> **The next generation of built-in smartphone AI.**
 
 ![GitHub stars](https://img.shields.io/github/stars/agentshanz/AI-Mobile-Automation-Agent?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/agentshanz/AI-Mobile-Automation-Agent?style=for-the-badge)
 ![License](https://img.shields.io/github/license/agentshanz/AI-Mobile-Automation-Agent?style=for-the-badge)
 ![iQOO Hackathon](https://img.shields.io/badge/iQOO-Hackathon-blue?style=for-the-badge)
 
-A voice-first, OS-level AI assistant that works from anywhere on the phone. Users simply say **"Hey AI"**, and the assistant understands the request, asks follow-up questions, opens the required apps automatically, and completes multi-step tasks through natural conversation.
+**AI Mobile Automation Agent** is a **voice-first, OS-level AI assistant** designed for the next generation of smartphones. Instead of opening apps manually, users simply say **"Hey AI"**, and the assistant appears as a floating system overlay, understands the request, asks follow-up questions naturally, opens the required apps automatically, and completes multi-step tasks through conversation.
 
 ---
 
 ## Project Demo
 
-The MVP is currently under development. The repository already includes the project architecture and workflow that demonstrate how the AI Mobile Automation Agent is designed to work.
+> MVP currently under development.
 
-- Architecture Diagram → `docs/architecture.png`
-- Workflow Diagram → `docs/workflow.png`
-- Interactive Prototype → Coming Soon
-- Demo Video → Coming Soon
+| Asset | Status |
+|-------|--------|
+| Architecture Diagram | ✅ Available |
+| Workflow Diagram | ✅ Available |
+| Interactive Prototype | 🚧 In Progress |
+| Demo Video | 🎬 Coming Soon |
+
+---
+
+## The Vision
+
+Today's smartphones require users to constantly switch between apps, perform repetitive taps, and manually complete multi-step tasks.
+
+Our vision is different.
+
+Instead of telling your phone **which app to open**, you simply tell it **what you want to achieve**.
+
+> **Goal-based interaction instead of app-based interaction.**
 
 ---
 
 ## The Problem
 
-Everyday smartphone tasks require opening multiple apps, navigating several screens, and repeatedly entering information.
+Everyday tasks often require navigating multiple apps and repeating the same actions.
 
-Examples:
+Common examples include:
+
 - Booking tickets
 - Sending messages
-- Filling forms
+- Making UPI payments
+- Ordering food
+- Booking cabs
 - Setting reminders
-- Searching across apps
+- Managing calendars
+- Searching information
+- Filling forms
 
-This is time-consuming and creates accessibility challenges for many users.
+This wastes time and creates accessibility challenges for many users.
 
 ---
 
 ## The Solution
 
-AI Mobile Automation Agent understands natural language commands, analyzes the current screen, plans the required workflow, and interacts with different applications to complete the task.
+AI Mobile Automation Agent works like a built-in smartphone AI rather than a standalone application.
 
-Example:
+The assistant:
 
-> "Book me a train ticket from Chennai to Hyderabad tomorrow."
+- Understands natural language.
+- Maintains conversational context.
+- Asks follow-up questions when needed.
+- Chooses the required apps automatically.
+- Executes multi-step workflows.
+- Requests confirmation only for sensitive actions.
 
-The agent:
+Instead of saying:
 
-1. Understands the request.
-2. Opens the required app.
-3. Fills the necessary information.
-4. Verifies details.
-5. Requests approval before payment.
-6. Completes the task.
+> "Open WhatsApp."
 
----
+Users simply say:
 
-## Key Features
+> "Reply to Arun that I'll reach in 10 minutes."
 
-- Natural language commands
-- Cross-app automation
-- Screen understanding
-- Intelligent workflow planning
-- User confirmation for payments
-- Privacy-focused design
+The AI understands the goal and completes the task automatically.
 
 ---
 
-## How It Works
-
-Instead of opening apps manually, users simply speak naturally.
-
-Example interactions:
+## Example Voice Commands
 
 - "Reply to Arun that I'll reach in 10 minutes."
 - "Book a cab to the airport."
@@ -79,19 +89,52 @@ Example interactions:
 - "Play Lo-fi on Spotify."
 - "Schedule tomorrow's meeting."
 - "Find the nearest hospital."
+- "Order dinner."
+- "Book a train ticket."
 
-The assistant appears as a floating system overlay, understands context, asks follow-up questions when needed, chooses the required apps automatically, executes the workflow, and requests confirmation only for sensitive actions such as payments.
+---
+
+## Key Features
+
+- Voice-first interaction
+- Floating OS-level AI overlay
+- Natural conversational AI
+- Cross-app automation
+- Intelligent workflow planning
+- Multi-step task execution
+- Screen understanding
+- Privacy-first design
+- Human-in-the-loop confirmation for sensitive actions
+
+---
+
+## How It Works
+
+1. User says **"Hey AI."**
+2. AI activates instantly from anywhere on the phone.
+3. The assistant understands the user's goal.
+4. It asks follow-up questions if required.
+5. It plans the workflow.
+6. Required apps open automatically.
+7. The task executes.
+8. Sensitive actions require confirmation.
+9. AI verifies completion and responds naturally.
 
 ---
 
 ## Architecture
 
 ![System Architecture](docs/architecture.png)
+
+The architecture demonstrates how the AI operates as an integrated Android system assistant instead of a traditional mobile application.
+
 ---
 
 ## Workflow
 
 ![Workflow Diagram](docs/workflow.png)
+
+The workflow highlights how natural voice conversations become intelligent multi-app automation.
 
 ---
 
@@ -100,7 +143,8 @@ The assistant appears as a floating system overlay, understands context, asks fo
 | Component | Technology |
 |-----------|------------|
 | AI Planning | On-device LLM |
-| Voice Input | Speech-to-Text |
+| Voice Recognition | Speech-to-Text |
+| Context Understanding | Conversational AI |
 | Screen Understanding | Computer Vision |
 | Mobile Control | Android Accessibility APIs |
 | Workflow Engine | Intelligent Task Planner |
@@ -109,32 +153,55 @@ The assistant appears as a floating system overlay, understands context, asks fo
 
 ## Privacy & Safety
 
-The system follows a Human-in-the-Loop approach.
+The assistant follows a **Human-in-the-Loop** approach.
 
-- Sensitive actions require approval.
-- Payments always require confirmation.
-- Privacy-first architecture.
+- Voice-first interaction
+- User confirmation for payments
+- Secure handling of sensitive actions
+- Privacy-focused on-device AI vision
+- User remains in control of critical operations
 
 ---
 
 ## Roadmap
 
+### Phase 1 — Foundation
+
 - [x] Idea validation
-- [ ] UI Prototype
-- [ ] Architecture Design
-- [ ] Workflow Simulation
-- [ ] Android MVP
-- [ ] Demo Video
-- [ ] Hackathon Submission
+- [x] Technical documentation
+- [x] System architecture
+- [x] Workflow design
+
+### Phase 2 — Prototype
+
+- [ ] Interactive Figma prototype
+- [ ] Voice conversation flow
+- [ ] Live demo
+
+### Phase 3 — MVP
+
+- [ ] Android OS-level prototype
+- [ ] Cross-app automation
+- [ ] Context memory
+- [ ] Real-time execution
+
+### Phase 4 — Future Vision
+
+- [ ] On-device AI optimization
+- [ ] Multi-language conversations
+- [ ] Accessibility enhancements
+- [ ] Next-generation smartphone AI experience
 
 ---
 
-## Future Vision
+## Why This Matters
 
-Move from tap-based smartphone interaction to goal-based AI automation where users describe outcomes instead of performing every step manually.
+Modern AI assistants often stop after answering questions or opening apps.
+
+**AI Mobile Automation Agent** goes further by combining conversation, planning, and execution into one continuous experience—bringing smartphones closer to a future where users describe outcomes instead of performing every tap manually.
 
 ---
 
 ## License
 
-MIT License
+This project is licensed under the **MIT License**.
