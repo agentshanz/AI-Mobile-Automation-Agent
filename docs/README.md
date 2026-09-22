@@ -1,13 +1,12 @@
 
-# Project Documentation
+# AI Mobile Automation Agent – Technical Documentation
 
-This folder contains the technical documentation for the AI Mobile Automation Agent.
+The architecture demonstrates how the AI operates as an Android OS-level assistant instead of a standalone application.ent.
 
 ## Contents
 
 - `architecture.png` – System architecture
 - `workflow.png` – User interaction workflow
-- `screenshots/` – Prototype and UI screenshots
 - `README.md` – Documentation index
 
 ## Current Status
