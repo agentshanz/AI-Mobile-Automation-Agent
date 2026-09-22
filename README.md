@@ -6,12 +6,14 @@ An intelligent on-device AI system that transforms smartphones into autonomous t
 
 ---
 
-## Demo
+## Project Demo
 
-🚧 MVP under development
+The MVP is currently under development. The repository already includes the project architecture and workflow that demonstrate how the AI Mobile Automation Agent is designed to work.
 
-- Live Prototype: Coming Soon
-- Demo Video: `demo/demo.mp4`
+- Architecture Diagram → `docs/architecture.png`
+- Workflow Diagram → `docs/workflow.png`
+- Interactive Prototype → Coming Soon
+- Demo Video → Coming Soon
 
 ---
 
