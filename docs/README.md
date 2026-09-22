@@ -1,7 +1,7 @@
 
 # AI Mobile Automation Agent – Technical Documentation
 
-The architecture demonstrates how the AI operates as an Android OS-level assistant instead of a standalone application.ent.
+This folder contains the technical documentation for **AI Mobile Automation Agent**, an OS-level voice-first AI assistant designed to work as an integrated Android system assistant rather than a standalone application.
 
 ## Contents
 
@@ -13,6 +13,17 @@ The architecture demonstrates how the AI operates as an Android OS-level assista
 
 | Asset | Status |
 |--------|--------|
-| Architecture Diagram | Coming Soon |
-| Workflow Diagram | Coming Soon |
-| Prototype Screenshots | Coming Soon |
+| Architecture Diagram | Completed |
+| Workflow Diagram | Completed |
+| Interactive Prototype | In Progress |
+| Demo Video | Planned |
+
+## Documentation Purpose
+
+The documentation explains how the AI assistant:
+
+- Understands natural voice commands.
+- Plans multi-step workflows.
+- Executes actions across multiple apps.
+- Requests confirmation for sensitive actions.
+- Delivers a seamless OS-level AI experience.
