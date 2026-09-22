@@ -67,14 +67,20 @@ The agent:
 
 ---
 
-## Example Workflows
+## How It Works
 
-- Train ticket booking
-- WhatsApp messaging
-- Alarm creation
-- Google Maps navigation
-- Form autofill
-- Job application assistance
+Instead of opening apps manually, users simply speak naturally.
+
+Example interactions:
+
+- "Reply to Arun that I'll reach in 10 minutes."
+- "Book a cab to the airport."
+- "Send ₹500 to Priya."
+- "Play Lo-fi on Spotify."
+- "Schedule tomorrow's meeting."
+- "Find the nearest hospital."
+
+The assistant appears as a floating system overlay, understands context, asks follow-up questions when needed, chooses the required apps automatically, executes the workflow, and requests confirmation only for sensitive actions such as payments.
 
 ---
 
