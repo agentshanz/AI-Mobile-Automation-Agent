@@ -73,12 +73,7 @@ The agent:
 
 ## Architecture
 
-Coming Soon
-
-Place the architecture diagram inside:
-
-`docs/architecture.png`
-
+![System Architecture](docs/architecture.png)
 ---
 
 ## Workflow
