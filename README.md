@@ -1,5 +1,12 @@
 # AI Mobile Automation Agent
 
+![GitHub stars](https://img.shields.io/github/stars/agentshanz/AI-Mobile-Automation-Agent?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/agentshanz/AI-Mobile-Automation-Agent?style=for-the-badge)
+![License](https://img.shields.io/github/license/agentshanz/AI-Mobile-Automation-Agent?style=for-the-badge)
+![Hackathon](https://img.shields.io/badge/iQOO-Hackathon-blue?style=for-the-badge)
+
+> Tell your phone what you want. Let AI do the work.
+
 > Tell your phone what you want. Let AI do the work.
 
 An intelligent on-device AI system that transforms smartphones into autonomous task executors. Instead of manually navigating multiple apps, users simply describe their goal, and the AI plans and executes the required actions while keeping the user in control for sensitive operations.
