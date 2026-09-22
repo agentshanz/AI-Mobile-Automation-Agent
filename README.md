@@ -19,8 +19,7 @@
 |-------|--------|
 | Architecture Diagram | ✅ Available |
 | Workflow Diagram | ✅ Available |
-| Interactive Prototype | 🚧 In Progress |
-| Demo Video | 🎬 Coming Soon |
+| Interactive Prototype | ✅ Available |
 
 ---
 
