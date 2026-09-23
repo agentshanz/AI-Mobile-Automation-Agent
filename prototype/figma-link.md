@@ -2,11 +2,11 @@
 # Figma Prototype
 
 ## Status
-In Progress
+Completed
 
 ## Prototype
 
-The interactive Figma prototype for the AI Mobile Automation Agent will be added here.
+https://set-night-41518606.figma.site/
 
 ### Planned Demo Flow
 
